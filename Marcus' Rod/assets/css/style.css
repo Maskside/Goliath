@@ -1,0 +1,268 @@
+/*=============================================================
+    Authour URI: Goliath
+    License: Goliath Company
+
+    100% To use For Personal And Commercial Use.
+    IN EXCHANGE JUST GIVE US CREDITS AND TELL YOUR FRIENDS ABOUT US
+	You may lose your domain!
+   
+    ========================================================  */
+
+/* CUSTOM STYLE SHEET */
+
+html, body {
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+    font-family: 'Open Sans', sans-serif;
+    border: none;
+    color: #C0C0C0;
+    font-size: 14px;
+}
+
+body {
+    background-color: #000000; 
+}
+
+.body-back {
+    background-color: #6A9DE9 !important; 
+}
+
+.video-counter {
+}
+
+
+
+
+h1, h2, h3, h4, h5, h6 {
+}
+
+.main-color {
+    color: #C0C0C0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.center {
+    text-align: center;
+}
+
+h1 {
+    font-size: 60px;
+    font-weight: 700;
+    text-align: center;
+}
+
+h2 {
+    font-size: 35px;
+    line-height: 40px;
+    font-weight: 700;
+    text-align: center;
+}
+
+h3 {
+    font-size: 25px;
+    line-height: 30px;
+    font-weight: 700;
+}
+
+h4 {
+    padding: 30px;
+    font-size: 20px;
+    line-height: 25px;
+}
+
+
+.hm-back-color, .abt-back-color, .srvc-back-color, .sb-back-color {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.sub-head {
+    margin: 35px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.divider {
+    width: 200px;
+    height: 4px;
+    background: #19CF7F;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.divider-two {
+    width: 200px;
+    height: 2px;
+    background: #19CF7F;
+    margin: 0 auto;
+}
+
+.margin-botom-50 {
+    margin-bottom: 50px;
+}
+
+
+
+.left-panel {
+    position: fixed;
+    display: table;
+    height: 100%;
+    width: 200px;
+    left: -160px;
+    top: 0;
+    background: rgba(119, 63, 19, 0.3);
+    z-index: 999999;
+}
+
+.menu-text {
+    width: 120px;
+    text-align: justify;
+    font-size: 18px;
+    margin-bottom: 40px;
+}
+
+.navigatation {
+    padding-top: 20px;
+    padding-left: 15px;
+}
+
+    .navigatation a {
+        color: #fff;
+        display: block;
+        margin-bottom: 5px;
+        font-size: 20px;
+        text-decoration: none;
+    }
+
+        .navigatation a:hover {
+            color: #19CF7F;
+            cursor: pointer;
+            transition: all linear 0.2s;
+            font-size: 20px; 
+        }
+
+.Icon-trigger {
+    display: table-cell;
+}
+
+    .Icon-trigger span {
+        margin-bottom: 30px;
+        margin-top: 10px;
+        color: #fff;
+        font-size: 40px;
+    }
+
+#social-links a, a:hover {
+    color: #ffffff;
+    display: table;
+    text-decoration: none;
+    font-size: 40px;
+}
+
+.Icon-trigger span:hover {
+    cursor: pointer;
+}
+
+
+
+
+
+#home-section {
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+#counter-default {
+    margin-top: 80px;
+}
+
+
+
+.bk-blue {
+    background-color: #00FFFF;
+}
+
+.bk-green {
+    background-color: #00FF33;
+}
+
+.bk-red {
+    background-color: #990000;
+}
+
+.bk-pink {
+    background-color: #CC99FF;
+}
+
+.medium {
+    height: 5px;
+}
+
+
+.abt-back-color {
+    background-color: rgba(39, 109, 81, 1);
+}
+
+.progress {
+    margin: 5px;
+}
+
+
+
+.srvc-back-color {
+    background-color: rgba(10, 50, 102, 0.89);
+}
+
+
+
+
+.sb-back-color {
+    background-color: rgba(70, 22, 131, 0.83);
+    padding-bottom: 80px;
+}
+
+.set-sb {
+    vertical-align: middle;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.input-set {
+    height: 50px;
+    color: #19CF7F;
+}
+
+.font-30 {
+    font-size: 30px;
+}
+
+
+
+#footer {
+    font-size: 18px;
+    text-align: right;
+    font-weight: normal;
+    padding: 20px;
+}
+
+
+
+@media only screen and (max-width: 767px) {
+    html, body {
+        margin-top: -5px;
+    }
+}
+
+@media only screen and (max-width: 240px) {
+    html, body {
+        height: 96%;
+    }
+
+    .container {
+        padding-left: 10px;
+    }
+}
