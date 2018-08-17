@@ -1,0 +1,58 @@
+Imports Microsoft.Win32
+Public Class Form2
+
+    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+
+    End Sub
+End Class
+
+Private Sub Form2_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+    Timer1.Start()
+End Sub
+
+Private Sub Timer1_Tick(sender As Object, e As EventArgs) Handles Timer1.Tick
+    Me.Opacity() += 0.2
+    If Me.Opacity = 1 Then
+        Timer2.Start()
+        Timer1.Stop()
+
+    End If
+End Sub
+
+Dim i As Integer
+
+Private Sub Timer2_Tick(sender As Object, e As EventArgs) Handles Timer2.Tick
+    i += 1
+    If i = 2 Then ' systemet vil vente i 2-3 sekunder kommer an' på hvor hurtig din computer er og efter vil den vise (login form) '
+
+        Panel1.Show() 'Panelen Underholder alle objekter, det gør det meget lettere.
+
+
+
+    End If
+End Sub
+
+Private Sub CheckBox1_MouseDown(sender As Object, e As MouseEventArgs) Handles CheckBox1.MouseDown
+    CheckBox1.Checked = True
+End Sub
+
+Private Sub CheckBox1_MouseUp(sender As Object, e As MouseEventArgs) Handles CheckBox1.MouseUp
+    CheckBox1.Checked = False
+End Sub
+
+Private Sub CheckBox1_CheckedChanged(sender As Object, e As EventArgs) Handles CheckBox1.CheckedChanged
+    If CheckBox1.Checked = True Then ' Når den bliver trykket blive koden gemt og set.
+        PassTB.UseSystemPasswordChar = False
+    Else ' når checkboxen er unchecket er passworden ikke Synlig.
+        PassTB.UseSystemPasswordChar = True
+    End If
+End Sub
+
+________________________________________________________________________________________________________________________________________________________________________
+
+If CheckBox1.Checked = True Then ' Når den bliver trykket blive koden gemt og set.
+        PassTB.UseSystemPasswordChar = False
+    Else ' når checkboxen er unchecket er passworden ikke Synlig.
+        PassTB.UseSystemPasswordChar = True
+    End If
+End Sub
