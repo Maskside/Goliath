@@ -1,0 +1,10 @@
+C:\Users\veste\Dropbox\Styresystem for Goliath\Allans Rod\Visual Studio 2013\Projects\Month Week and Date\Month Week and Date\bin\Debug\Month Week and Date.exe.config
+C:\Users\veste\Dropbox\Styresystem for Goliath\Allans Rod\Visual Studio 2013\Projects\Month Week and Date\Month Week and Date\bin\Debug\Month Week and Date.exe
+C:\Users\veste\Dropbox\Styresystem for Goliath\Allans Rod\Visual Studio 2013\Projects\Month Week and Date\Month Week and Date\bin\Debug\Month Week and Date.pdb
+C:\Users\veste\Dropbox\Styresystem for Goliath\Allans Rod\Visual Studio 2013\Projects\Month Week and Date\Month Week and Date\bin\Debug\Month Week and Date.xml
+C:\Users\veste\Dropbox\Styresystem for Goliath\Allans Rod\Visual Studio 2013\Projects\Month Week and Date\Month Week and Date\obj\Debug\Month_Week_and_Date.Form1.resources
+C:\Users\veste\Dropbox\Styresystem for Goliath\Allans Rod\Visual Studio 2013\Projects\Month Week and Date\Month Week and Date\obj\Debug\Month_Week_and_Date.Resources.resources
+C:\Users\veste\Dropbox\Styresystem for Goliath\Allans Rod\Visual Studio 2013\Projects\Month Week and Date\Month Week and Date\obj\Debug\Month Week and Date.vbproj.GenerateResource.Cache
+C:\Users\veste\Dropbox\Styresystem for Goliath\Allans Rod\Visual Studio 2013\Projects\Month Week and Date\Month Week and Date\obj\Debug\Month Week and Date.exe
+C:\Users\veste\Dropbox\Styresystem for Goliath\Allans Rod\Visual Studio 2013\Projects\Month Week and Date\Month Week and Date\obj\Debug\Month Week and Date.xml
+C:\Users\veste\Dropbox\Styresystem for Goliath\Allans Rod\Visual Studio 2013\Projects\Month Week and Date\Month Week and Date\obj\Debug\Month Week and Date.pdb
