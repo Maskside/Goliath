@@ -1,0 +1,15 @@
+C:\Users\veste\Dropbox\Styresystem for Goliath\Til Styresystemet\Music-Video Player\Music-Video Player\bin\Debug\Music-Video Player.exe.config
+C:\Users\veste\Dropbox\Styresystem for Goliath\Til Styresystemet\Music-Video Player\Music-Video Player\bin\Debug\Music-Video Player.exe
+C:\Users\veste\Dropbox\Styresystem for Goliath\Til Styresystemet\Music-Video Player\Music-Video Player\bin\Debug\Music-Video Player.pdb
+C:\Users\veste\Dropbox\Styresystem for Goliath\Til Styresystemet\Music-Video Player\Music-Video Player\bin\Debug\Music-Video Player.xml
+C:\Users\veste\Dropbox\Styresystem for Goliath\Til Styresystemet\Music-Video Player\Music-Video Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\veste\Dropbox\Styresystem for Goliath\Til Styresystemet\Music-Video Player\Music-Video Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\veste\Dropbox\Styresystem for Goliath\Til Styresystemet\Music-Video Player\Music-Video Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\veste\Dropbox\Styresystem for Goliath\Til Styresystemet\Music-Video Player\Music-Video Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\veste\Dropbox\Styresystem for Goliath\Til Styresystemet\Music-Video Player\Music-Video Player\obj\Debug\Music-Video Player.vbproj.ResolveComReference.cache
+C:\Users\veste\Dropbox\Styresystem for Goliath\Til Styresystemet\Music-Video Player\Music-Video Player\obj\Debug\Music_Video_Player.Form1.resources
+C:\Users\veste\Dropbox\Styresystem for Goliath\Til Styresystemet\Music-Video Player\Music-Video Player\obj\Debug\Music_Video_Player.Resources.resources
+C:\Users\veste\Dropbox\Styresystem for Goliath\Til Styresystemet\Music-Video Player\Music-Video Player\obj\Debug\Music-Video Player.vbproj.GenerateResource.Cache
+C:\Users\veste\Dropbox\Styresystem for Goliath\Til Styresystemet\Music-Video Player\Music-Video Player\obj\Debug\Music-Video Player.exe
+C:\Users\veste\Dropbox\Styresystem for Goliath\Til Styresystemet\Music-Video Player\Music-Video Player\obj\Debug\Music-Video Player.xml
+C:\Users\veste\Dropbox\Styresystem for Goliath\Til Styresystemet\Music-Video Player\Music-Video Player\obj\Debug\Music-Video Player.pdb

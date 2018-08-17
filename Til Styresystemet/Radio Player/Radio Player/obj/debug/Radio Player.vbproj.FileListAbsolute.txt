@@ -1,0 +1,15 @@
+C:\Users\veste\Dropbox\Styresystem for Goliath\Til Styresystemet\Radio Player\Radio Player\bin\Debug\Radio Player.exe.config
+C:\Users\veste\Dropbox\Styresystem for Goliath\Til Styresystemet\Radio Player\Radio Player\bin\Debug\Radio Player.exe
+C:\Users\veste\Dropbox\Styresystem for Goliath\Til Styresystemet\Radio Player\Radio Player\bin\Debug\Radio Player.pdb
+C:\Users\veste\Dropbox\Styresystem for Goliath\Til Styresystemet\Radio Player\Radio Player\bin\Debug\Radio Player.xml
+C:\Users\veste\Dropbox\Styresystem for Goliath\Til Styresystemet\Radio Player\Radio Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\veste\Dropbox\Styresystem for Goliath\Til Styresystemet\Radio Player\Radio Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\veste\Dropbox\Styresystem for Goliath\Til Styresystemet\Radio Player\Radio Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\veste\Dropbox\Styresystem for Goliath\Til Styresystemet\Radio Player\Radio Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\veste\Dropbox\Styresystem for Goliath\Til Styresystemet\Radio Player\Radio Player\obj\Debug\Radio Player.vbproj.ResolveComReference.cache
+C:\Users\veste\Dropbox\Styresystem for Goliath\Til Styresystemet\Radio Player\Radio Player\obj\Debug\Radio_Player.Form1.resources
+C:\Users\veste\Dropbox\Styresystem for Goliath\Til Styresystemet\Radio Player\Radio Player\obj\Debug\Radio_Player.Resources.resources
+C:\Users\veste\Dropbox\Styresystem for Goliath\Til Styresystemet\Radio Player\Radio Player\obj\Debug\Radio Player.vbproj.GenerateResource.Cache
+C:\Users\veste\Dropbox\Styresystem for Goliath\Til Styresystemet\Radio Player\Radio Player\obj\Debug\Radio Player.exe
+C:\Users\veste\Dropbox\Styresystem for Goliath\Til Styresystemet\Radio Player\Radio Player\obj\Debug\Radio Player.xml
+C:\Users\veste\Dropbox\Styresystem for Goliath\Til Styresystemet\Radio Player\Radio Player\obj\Debug\Radio Player.pdb

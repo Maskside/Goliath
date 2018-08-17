@@ -1,0 +1,13 @@
+C:\Users\veste\Dropbox\Styresystem for Goliath\Til Styresystemet\Gecko Web Browser CSharp\Gecko Web Browser CSharp\bin\Debug\Gecko Web Browser CSharp.exe.config
+C:\Users\veste\Dropbox\Styresystem for Goliath\Til Styresystemet\Gecko Web Browser CSharp\Gecko Web Browser CSharp\obj\Debug\Gecko Web Browser CSharp.csprojResolveAssemblyReference.cache
+C:\Users\veste\Dropbox\Styresystem for Goliath\Til Styresystemet\Gecko Web Browser CSharp\Gecko Web Browser CSharp\obj\Debug\Gecko_Web_Browser_CSharp.Properties.Resources.resources
+C:\Users\veste\Dropbox\Styresystem for Goliath\Til Styresystemet\Gecko Web Browser CSharp\Gecko Web Browser CSharp\obj\Debug\Gecko Web Browser CSharp.csproj.GenerateResource.Cache
+C:\Users\veste\Dropbox\Styresystem for Goliath\Til Styresystemet\Gecko Web Browser CSharp\Gecko Web Browser CSharp\bin\Debug\Gecko Web Browser CSharp.exe
+C:\Users\veste\Dropbox\Styresystem for Goliath\Til Styresystemet\Gecko Web Browser CSharp\Gecko Web Browser CSharp\bin\Debug\Gecko Web Browser CSharp.pdb
+C:\Users\veste\Dropbox\Styresystem for Goliath\Til Styresystemet\Gecko Web Browser CSharp\Gecko Web Browser CSharp\bin\Debug\Geckofx-Core.dll
+C:\Users\veste\Dropbox\Styresystem for Goliath\Til Styresystemet\Gecko Web Browser CSharp\Gecko Web Browser CSharp\bin\Debug\Geckofx-Winforms.dll
+C:\Users\veste\Dropbox\Styresystem for Goliath\Til Styresystemet\Gecko Web Browser CSharp\Gecko Web Browser CSharp\bin\Debug\Geckofx-Core.pdb
+C:\Users\veste\Dropbox\Styresystem for Goliath\Til Styresystemet\Gecko Web Browser CSharp\Gecko Web Browser CSharp\bin\Debug\Geckofx-Winforms.pdb
+C:\Users\veste\Dropbox\Styresystem for Goliath\Til Styresystemet\Gecko Web Browser CSharp\Gecko Web Browser CSharp\obj\Debug\Gecko Web Browser CSharp.exe
+C:\Users\veste\Dropbox\Styresystem for Goliath\Til Styresystemet\Gecko Web Browser CSharp\Gecko Web Browser CSharp\obj\Debug\Gecko Web Browser CSharp.pdb
+C:\Users\veste\Dropbox\Styresystem for Goliath\Til Styresystemet\Gecko Web Browser CSharp\Gecko Web Browser CSharp\obj\Debug\Gecko_Web_Browser_CSharp.Form1.resources

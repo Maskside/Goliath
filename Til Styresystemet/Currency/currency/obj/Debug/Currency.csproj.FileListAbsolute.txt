@@ -1,0 +1,9 @@
+c:\users\veste\documents\visual studio 2013\Projects\Currency\Currency\bin\Debug\Currency.exe.config
+c:\users\veste\documents\visual studio 2013\Projects\Currency\Currency\obj\Debug\Currency.csprojResolveAssemblyReference.cache
+c:\users\veste\documents\visual studio 2013\Projects\Currency\Currency\obj\Debug\Currency.Form1.resources
+c:\users\veste\documents\visual studio 2013\Projects\Currency\Currency\obj\Debug\Currency.Properties.Resources.resources
+c:\users\veste\documents\visual studio 2013\Projects\Currency\Currency\obj\Debug\Currency.csproj.GenerateResource.Cache
+c:\users\veste\documents\visual studio 2013\Projects\Currency\Currency\bin\Debug\Currency.exe
+c:\users\veste\documents\visual studio 2013\Projects\Currency\Currency\bin\Debug\Currency.pdb
+c:\users\veste\documents\visual studio 2013\Projects\Currency\Currency\obj\Debug\Currency.exe
+c:\users\veste\documents\visual studio 2013\Projects\Currency\Currency\obj\Debug\Currency.pdb

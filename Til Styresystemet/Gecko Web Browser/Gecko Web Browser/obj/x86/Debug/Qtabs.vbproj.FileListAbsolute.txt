@@ -1,0 +1,12 @@
+C:\Users\Antwan\Documents\SharpDevelop Projects\QtabsAdvanced\Qtabs\bin\Debug\Qtabs.exe.config
+C:\Users\Antwan\Documents\SharpDevelop Projects\QtabsAdvanced\Qtabs\bin\Debug\Qtabs.exe
+C:\Users\Antwan\Documents\SharpDevelop Projects\QtabsAdvanced\Qtabs\bin\Debug\Qtabs.pdb
+C:\Users\Antwan\Documents\SharpDevelop Projects\QtabsAdvanced\Qtabs\bin\Debug\Qios.DevSuite.Components.dll
+C:\Users\Antwan\Documents\SharpDevelop Projects\QtabsAdvanced\Qtabs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Antwan\Documents\SharpDevelop Projects\QtabsAdvanced\Qtabs\obj\x86\Debug\Qtabs.exe
+C:\Users\Antwan\Documents\SharpDevelop Projects\QtabsAdvanced\Qtabs\obj\x86\Debug\Qtabs.pdb
+C:\Users\Antwan\Documents\SharpDevelop Projects\QtabsAdvanced\Qtabs\bin\Debug\QAdvancedTabControlSample.dll
+C:\Users\Antwan\Documents\SharpDevelop Projects\QtabsAdvanced\Qtabs\bin\Debug\QAdvancedTabControlSample.pdb
+C:\Users\Antwan\Documents\SharpDevelop Projects\QtabsAdvanced\Qtabs\obj\x86\Debug\Qtabs.MainForm.resources
+C:\Users\Antwan\Documents\SharpDevelop Projects\QtabsAdvanced\Qtabs\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Antwan\Documents\SharpDevelop Projects\QtabsAdvanced\Qtabs\obj\x86\Debug\GenerateResource.write.1.tlog

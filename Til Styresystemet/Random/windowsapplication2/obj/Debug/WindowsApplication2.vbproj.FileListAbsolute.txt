@@ -1,0 +1,55 @@
+c:\users\troen\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+c:\users\troen\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+c:\users\troen\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+c:\users\troen\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+c:\users\troen\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+c:\users\troen\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+c:\users\troen\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+c:\users\troen\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+c:\users\troen\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+c:\users\troen\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+c:\users\troen\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.ShutdownDLG.resources
+c:\users\troen\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.RestartDLG.resources
+c:\users\troen\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
+c:\users\troen\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Sleep_Mode.resources
+C:\Users\veste\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\veste\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
+C:\Users\veste\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+C:\Users\veste\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+C:\Users\veste\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.RestartDLG.resources
+C:\Users\veste\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.ShutdownDLG.resources
+C:\Users\veste\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Sleep_Mode.resources
+C:\Users\veste\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\veste\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\veste\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\veste\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\veste\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\veste\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Users\veste\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+D:\Computer\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+D:\Computer\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+D:\Computer\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+D:\Computer\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+D:\Computer\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+D:\Computer\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+D:\Computer\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+D:\Computer\WindowsApplication2\obj\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
+D:\Computer\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+D:\Computer\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+D:\Computer\WindowsApplication2\obj\Debug\WindowsApplication2.RestartDLG.resources
+D:\Computer\WindowsApplication2\obj\Debug\WindowsApplication2.ShutdownDLG.resources
+D:\Computer\WindowsApplication2\obj\Debug\WindowsApplication2.Sleep_Mode.resources
+D:\Computer\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+D:\Computer\WindowsApplication2\obj\Debug\WindowsApplication2.ControlPanel.resources
+C:\Users\veste\Dropbox\Styresystem for Goliath\Til Styresystemet\Random\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\veste\Dropbox\Styresystem for Goliath\Til Styresystemet\Random\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\veste\Dropbox\Styresystem for Goliath\Til Styresystemet\Random\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Users\veste\Dropbox\Styresystem for Goliath\Til Styresystemet\Random\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+C:\Users\veste\Dropbox\Styresystem for Goliath\Til Styresystemet\Random\WindowsApplication2\obj\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
+C:\Users\veste\Dropbox\Styresystem for Goliath\Til Styresystemet\Random\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+C:\Users\veste\Dropbox\Styresystem for Goliath\Til Styresystemet\Random\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+C:\Users\veste\Dropbox\Styresystem for Goliath\Til Styresystemet\Random\WindowsApplication2\obj\Debug\WindowsApplication2.ControlPanel.resources
+C:\Users\veste\Dropbox\Styresystem for Goliath\Til Styresystemet\Random\WindowsApplication2\obj\Debug\WindowsApplication2.RestartDLG.resources
+C:\Users\veste\Dropbox\Styresystem for Goliath\Til Styresystemet\Random\WindowsApplication2\obj\Debug\WindowsApplication2.ShutdownDLG.resources
+C:\Users\veste\Dropbox\Styresystem for Goliath\Til Styresystemet\Random\WindowsApplication2\obj\Debug\WindowsApplication2.Sleep_Mode.resources
+C:\Users\veste\Dropbox\Styresystem for Goliath\Til Styresystemet\Random\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
